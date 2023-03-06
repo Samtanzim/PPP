@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - Saima Anjum 
+<div id="center-set"> -  Saima
 <div id="signup">
 <div id="signup-st">
 <div align="center">
